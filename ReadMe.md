@@ -18,5 +18,4 @@
 1. MongoDB
 2. ExpressJS
 3. ReactJS
-4. NodeJS
-5. A-Frame : Web Framework for building Virtual/Augmented Experiences
+4. A-Frame : Web Framework for building Virtual/Augmented Experiences
