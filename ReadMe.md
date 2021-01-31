@@ -2,10 +2,12 @@
 
 ### My Tool Box 
 
-1. :art: Javascript
+1. :art: JavaScript
+    - :art: Vanilla JavaScript
     - :honey_pot: Nodejs
         - :honey_pot: Expressjs
 2. :ocean: CSS
     - :ocean: SCSS
     - :b: Bootstrap
 3. :earth_africa: HTML
+    - :man: HandleBars
