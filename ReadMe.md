@@ -18,6 +18,4 @@
 1. :electric_plug: MongoDB :chart_with_upwards_trend:
 2. :electric_plug: ExpressJS :chart_with_upwards_trend:
 3. :electric_plug: ReactJS :chart_with_upwards_trend:
-4. :electric_plug: A-Frame : Web Framework for building Virtual/Augmented Experiences ```language
-
-```
+4. :electric_plug: A-Frame : Web Framework for building Virtual/Augmented Experiences :chart_with_upwards_trend:
