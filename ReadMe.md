@@ -1,12 +1,11 @@
 # Hello World, I am Sandile 
 
-## Langueges and other tools I use.
+### My Tool Box 
 
-
-1. :zap: Javascript
-    - :zap: Nodejs
-        - :zap: Expressjs
-2. :zap: CSS
-    - :zap: SCSS
-    - :zap: Bootstrap
-3. :zap: HTML
+1. :sunny: Javascript
+    - :volcano: Nodejs
+        - :honey_pot: Expressjs
+2. :ocean: CSS
+    - :ocean: SCSS
+    - :b: Bootstrap
+3. :earth_africa: HTML
