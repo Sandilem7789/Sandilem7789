@@ -1,6 +1,10 @@
+<p align="center">
+    <img width="460" height="300" src="https://avatars.githubusercontent.com/u/61883240?v=4">
+</p>
+
 # Hello World, I am Sandile
 
-## I am a Front End Software Engineer
+## _I am a Front End Software Engineer_
 
 ### My Tool Box 
 
