@@ -1,14 +1,12 @@
 <h1 align="center">Hello World, I am Sandile</h1>
 
 
-## <p align="center">
- _I am a Front End Software Engineer_
-</p>
+<h2 align="center"> _I am a Front End Software Engineer_</h2>
 
 
-### My Tool Box 
+<h3 align="center">My Tool Box </h3>
 
-<h3 align="center">1. :fire: JavaScript<h3/>
+<h4 align="center">1. :fire: JavaScript<h4/>
     <p align="center">- :fire: Vanilla JavaScript
     - :fire: Nodejs
     - :fire: Expressjs</p>
