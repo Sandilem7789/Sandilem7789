@@ -16,9 +16,10 @@
     - :ocean: Bootstrap :b:,
     - :ocean: Material UI :m:</p>
 <p align="center">3. :earth_africa: HTML</p>
-<p align="center">4. :earth_africa: Git & GitHub</p>
-<p align="center">5. :cloud: MongoDB</p>
-#
+<p align="center">4. :cloud: MongoDB</p>
+<p align="center">5. :earth_africa: Git & GitHub</p>
+<p align="center">6. :earth_africa: npm & yarn</p>
+
 
 
 
