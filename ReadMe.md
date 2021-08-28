@@ -11,8 +11,8 @@
     - :fire: Nodejs
     - :fire: Expressjs</p>
 <p align="center">2. :ocean: CSS</p>
-    <p align="center">- :ocean: SCSS
-    - :ocean: Bootstrap :b:
+    <p align="center">- :ocean: SCSS,
+    - :ocean: Bootstrap :b:,
     - :ocean: Material UI :m:</p>
 <p align="center">3. :earth_africa: HTML</p>
 <p align="center">4. :earth_africa: JSX</p>
