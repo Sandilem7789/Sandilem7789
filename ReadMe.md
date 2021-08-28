@@ -9,9 +9,9 @@
 ### My Tool Box 
 
 <p align="center">1. :fire: JavaScript</p>
-    <p align="center">- :fire: Vanilla JavaScript</p>
-    <p align="center">- :fire: Nodejs</p>
-    <p align="center">- :fire: Expressjs</p>
+    - :fire: Vanilla JavaScript
+    - :fire: Nodejs
+    - :fire: Expressjs
 <p align="center">2. :ocean: CSS</p>
     <p align="center">- :ocean: SCSS</p>
     <p align="center">- :ocean: Bootstrap :b:</p>
