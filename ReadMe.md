@@ -8,7 +8,7 @@
 
 ### My Tool Box 
 
-<p align="center">1. :fire: JavaScript</p>
+<h3 align="center">1. :fire: JavaScript<h3/>
     <p align="center">- :fire: Vanilla JavaScript
     - :fire: Nodejs
     - :fire: Expressjs</p>
