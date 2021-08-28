@@ -1,5 +1,5 @@
 <p align="center">
-    # Hello World, I am Sandile
+    <h1>Hello World, I am Sandile</h1>
 </p>
 
 
