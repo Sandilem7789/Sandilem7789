@@ -1,8 +1,7 @@
 <p align="center">
-    <img width="460" height="300" src="https://avatars.githubusercontent.com/u/61883240?v=4">
+    # Hello World, I am Sandile
 </p>
 
-# Hello World, I am Sandile
 
 ## _I am a Front End Software Engineer_
 
