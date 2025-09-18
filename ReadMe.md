@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Code-Django-green?logo=django" />
   <img src="https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript" />
   <img src="https://img.shields.io/badge/Code-Python-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-blue?logo=postgresql" />
   <img src="https://img.shields.io/badge/DB-SQLite-lightgrey?logo=sqlite" />
   <img src="https://img.shields.io/badge/Tools-Git-orange?logo=git" />
   <img src="https://img.shields.io/badge/Tools-GitHub-black?logo=github" />
