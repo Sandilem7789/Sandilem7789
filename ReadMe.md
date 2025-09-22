@@ -4,11 +4,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BSc in Computer Science & Physics (University of Zululand)  
 - 💻 Full Stack Web Developer (React, Django, REST APIs, mobile-first design)  
-- 📚 Coding educator — I create TikTok tutorials to empower South African youth  
 - 🌍 Passionate about building user-focused, culturally resonant tech platforms  
-- 🎨 Creative storyteller — comics, RP, and music production  
+- 🎨 Creative storyteller — comics, RP, and music production
+- 🎓 BSc in Computer Science & Physics (University of Zululand)    
 
 ---
 
